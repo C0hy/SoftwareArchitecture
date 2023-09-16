@@ -21,7 +21,7 @@
 > **2.车联网车辆疲劳驾驶检测**  
 
 ## 4、系统架构1.0
-本项目整体采用**分层架构**：  
+[本项目整体采用**分层架构**](https://github.com/C0hy/SoftwareArchitecture/blob/3fba276efbab7a33a4a04f28c3a2ff249a59f6c9/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A11.0.md)：  
 > 具体分为六层  
 
 <img src="架构设计-1.png" width="400">  
