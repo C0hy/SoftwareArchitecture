@@ -25,5 +25,3 @@
 > 具体分为六层  
 
 <img src="架构设计-1.png" width="400">  
-
-<img src="架构设计-2.png" width="400">  
